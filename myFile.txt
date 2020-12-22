@@ -1,6 +1,69 @@
 <!DOCTYPE html>
-
 <html>
-<head>
-	<title>Final Project</title>
+ <head>
+  <style>
+   a.highlight:hover {
+    color: red;
+  }
+   
+  </style>
+  <title>
+      Final Project CS187
+  </title>
+ </head>
+    <body>
+	<header>
+	 <h1><center>CS187 Final</center><h1>
+	 <p><h2> By Ben Malone</h2></p>
+	</header>
 
+	<main>
+	 <section>
+	  
+	  <center><h3>Facial Recognition<h3></center>
+	   <img src="brain2.jpeg" align = "right" width = "500" height = "250"> 
+	   
+	  <p style = "margin-left: 200px">
+ 	   One thing I found interesting this semester was Facial recognition. The idea that in the future we can do almost anything with this technology is intriguing.<br>
+	   What interested me more than its uses however, were the discussions on if it should be used and if so how to properly regulate it. I focused my midterm on this<br>
+	   topic as well. I looked into the arguments for and against the use of facial recognition in law enforcement. On one side are those in law enforcement who think<br>
+           this tech will be helpful in catching more criminals. On the other side are civil rights advocates and even the leader of Google's ethical artificial intelligence<br>
+	   team who argue that it will be used to target people of color and that law enforcement today is not equipped to handle this tech.The two sides are pretty polarised<br>
+	   with not much room for negotiation and I think rightfully so as if implemented it doesn't seem like something that will be given up without a long drawn out fight.<br>
+	   I argued that for now I agree with the people against facial recognition in that I do not think we are equipped to handle this technology because the risk for misuse<br>
+	   is too high. It can do some pretty amazing things outside of law enforcement though. As I discovered from one of the articles assigned to us, our faces are unique<br>
+	   similar to our fingerprints. Apparently with this in mind facial recognition can be pretty good for privacy measures and even help distinguish symptoms of disease.<br>
+	   Using facial recognition doctors can find subtle facial characteristics of some diseases that would otherwise be difficult to detect.
+          </p>
+	  <p style = "margin-left: 200px"> These are the articles I referenced on Facial Recognition.</p>
+	  <a style = "margin-left: 200px" class = "highlight" href = "https://www.wired.com/story/do-our-faces-deserve-the-same-protection-as-our-phones/" target = "_blank"> Do Our Faces Deserve the Same Protection as Our Phones?
+	  </a><br>
+	  <a style = "margin-left: 200px" class = "highlight" href = "https://www.nytimes.com/2020/06/09/technology/facial-recognition-software.html" target = "_blank"> A Case for Banning Facial Recognition
+	  </a><br>
+	  <a style = "margin-left: 200px" class = "highlight" href = "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.html" target = "_blank"> A Case for Facial Recognition
+	  </a><br>
+	 </section><br><hr>
+	 <section>
+	 <center><h3>Artificial Intelligence</h3></center>
+	   <img src = "face.png" align = "right" width = "450" height = "350">
+	  <p style = "margin-left: 200px">
+	   The other main thing I found interesting but also kinda scary was Artificial Intelligence. To be honest I was more creeped out than I was interested in AI.<br>
+	    We use AI in our everyday lives much more than I knew. On finding out their are multiple types of AI, at first I didn't think that there was multiple types.<br>
+	    As it turns out there are three types of AI as of right now. The three types are Artificial Narrow Intelligence, Artificial General Intelligence and Artificial Superintelligence.<br>
+	    Artificial Narrow intelligence(ANI) makes up all of what we currently have today. It is AI that is built with one task in mind and can only do that one thing. As of now we don't currently<br>
+	    have the capability for Artificial General Intelligence(AGI) or Artificial SuperIntelligence(ASI) which is a bit of a relief, and we won't have these capabilities for a long time.<br>
+	    The estimated hardware needed for an AGI should be available by 2025 but the difficult part is making an AGI actualy intelligent and for that I have no idea how long it will take.<br>
+	    I'm not sure I want one to be made because once an AGI is made the focus will be on makine an ASI which I am afraid of. All I can think of from an ASI is supercomputers eventually<br>
+	    taking over the world and I really would not like to see that.	  
+	  </p>
+	  <p style = "margin-left: 200px"> These are the articles I referenced about AI.</p>
+	  <a style = "margin-left: 200px" class = "highlight" href = "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html" target = "_blank"> AI Revolution Part 1
+	  </a><br>
+	  <a style = "margin-left: 200px" class = "highlight" href = "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html" target = "_blank"> AI Revolution Part 2
+	  </a><br>
+	 </section>
+	</main>
+
+    </body>
+
+</html>
